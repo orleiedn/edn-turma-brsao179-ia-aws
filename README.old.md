@@ -1,6 +1,2 @@
 # edn-turma-brsao179-ia-aws
 Turma inaugural de aprendizado em Inteligencia Artifical Programa promovido pela  AWS e Escola da Nuvem
-***
-**Professor:** Heberton de Oliveira
-**Turma:** BRSAO179
-**Modulo:** IA-EDN4
