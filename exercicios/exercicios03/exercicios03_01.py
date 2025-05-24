@@ -13,6 +13,7 @@ Trate os seguintes erros:​
 
 Entrada inválida (não numérica) para os números​
 
+
 Divisão por zero​
 
 Operação inválida​
